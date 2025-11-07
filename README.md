@@ -19,7 +19,7 @@ Stream Velocitytrend line to monitor daily or weekly growth.
  2. Audience Insights
 Geographic Map visualization showing streams by country and region.
  Breakdown of streams by Device Type (Mobile, Desktop, Web Player).
- Analysis of Listening Habits by Hour of Day** to determine peak engagement times.
+ Analysis of Listening Habits by Hour of Day to determine peak engagement times.
 
 3. Content Analysis
 Genre Distribution charts (e.g., Treemap or Pie Chart).
